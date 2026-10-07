@@ -1,0 +1,7 @@
+2023.10.25.09.30.05 Trade in: AAPL between: 2 and 1 at price: 151 for: 25 stock
+2023.10.25.09.30.12 Trade in: AAPL between: 3 and 0 at price: 150.5 for: 100 stock
+Deplete in stock: AAPL, at side: b, at price: 150.5
+2023.10.25.09.31.02 Trade in: AAPL between: 12 and 5 at price: 150.75 for: 50 stock
+2023.10.25.09.31.35 Trade in: AAPL between: 18 and 17 at price: 150.9 for: 75 stock
+Deplete in stock: AAPL, at side: s, at price: 150.9
+2023.10.25.09.31.35 Trade in: AAPL between: 18 and 1 at price: 151 for: 25 stock
